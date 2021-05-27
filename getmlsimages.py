@@ -50,7 +50,7 @@ def loadmlsimages(dfhousedata, sleep=0, verbose=False):
     images = []
     for url in mlsimages:
         # check if images are present locally
-        imagefile = htmldir + re.findall(r'/(\d+\-o\.jpg)', url)[0]
+        imagefile = htmldir + str(listingkey) + '-' + re.findall(r'/(\d+\-o\.jpg)', url)[0]
 
         if os.path.exists(imagefile):
             if verbose:
