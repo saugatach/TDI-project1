@@ -1,0 +1,13 @@
+[Paths]
+home_dir: .
+data_dir: ${home_dir}/data
+data_html: ${data_dir}/scrapedhtml
+data_housing: ${data_dir}/housing
+data_valuation: ${data_dir}/valuation
+propertydata: ${data_housing}/propertydata.csv
+pricehistoryfile: ${data_housing}/pricehistoryfile.csv
+comps: ${data_housing}/comps.csv
+mls_search_data: ${data_housing}/mls_search_data.csv
+gmail_search_data: ${data_housing}/gmail_search_data.csv
+zillow_search_data: ${data_housing}/zillow_search_data.csv
+mlsurlsfile:  ${data_housing}/mlsurls.csv

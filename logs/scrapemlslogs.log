@@ -1,0 +1,597 @@
+05-26 19:07 helpers      ERROR    ./data/housing/propertydata.csv does not exist
+05-26 19:12 getmlsimages INFO     loadmlsimages()
+05-26 19:12 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210405215243457062000000
+05-26 19:12 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210405215243457062000000.html
+05-26 19:12 helpers      ERROR    File ./data/scrapedhtml/20210405215243457062000000.html not found.
+05-26 19:12 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:12 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210405215243457062000000 HTTP/1.1" 200 6138
+05-26 19:12 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210405215243457062000000.html
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905519086000000-o.jpg
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905519086000000-o.jpg
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905626564000000-o.jpg
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905883503000000-o.jpg
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905972922000000-o.jpg
+05-26 19:12 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215906084655000000-o.jpg
+05-26 19:12 getmlsimages INFO     loadmlsimages()
+05-26 19:12 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210326193445009158000000
+05-26 19:12 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210326193445009158000000.html
+05-26 19:12 helpers      ERROR    File ./data/scrapedhtml/20210326193445009158000000.html not found.
+05-26 19:12 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:12 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210326193445009158000000 HTTP/1.1" 200 6150
+05-26 19:12 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210326193445009158000000.html
+05-26 19:12 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210326202329660401000000-o.jpg
+05-26 19:12 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:12 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210326202329660401000000-o.jpg HTTP/1.1" 200 217052
+05-26 19:13 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202329660401000000-o.jpg
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210326202333569376000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210326202333569376000000-o.jpg HTTP/1.1" 200 489118
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210326202337051713000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210326202337051713000000-o.jpg HTTP/1.1" 200 217906
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210326202340339401000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210326202340339401000000-o.jpg HTTP/1.1" 200 351963
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210326202344442710000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210326202344442710000000-o.jpg HTTP/1.1" 200 392344
+05-26 19:13 getmlsimages INFO     loadmlsimages()
+05-26 19:13 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210408221109237841000000
+05-26 19:13 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210408221109237841000000.html
+05-26 19:13 helpers      ERROR    File ./data/scrapedhtml/20210408221109237841000000.html not found.
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210408221109237841000000 HTTP/1.1" 200 6837
+05-26 19:13 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210408221109237841000000.html
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233736533033000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233736533033000000-o.jpg HTTP/1.1" 200 141650
+05-26 19:13 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233736533033000000-o.jpg
+05-26 19:13 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233736533033000000-o.jpg
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233737910576000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233737910576000000-o.jpg HTTP/1.1" 200 113156
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233739204484000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233739204484000000-o.jpg HTTP/1.1" 200 90897
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233740463933000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233740463933000000-o.jpg HTTP/1.1" 200 122288
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233741865228000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233741865228000000-o.jpg HTTP/1.1" 200 134747
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233743257585000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233743257585000000-o.jpg HTTP/1.1" 200 141266
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233744717093000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233744717093000000-o.jpg HTTP/1.1" 200 99549
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233747518834000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233747518834000000-o.jpg HTTP/1.1" 200 118369
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233750020878000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233750020878000000-o.jpg HTTP/1.1" 200 88711
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233751336151000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233751336151000000-o.jpg HTTP/1.1" 200 127886
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233754154282000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233754154282000000-o.jpg HTTP/1.1" 200 117005
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233755604720000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233755604720000000-o.jpg HTTP/1.1" 200 155732
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233757104800000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233757104800000000-o.jpg HTTP/1.1" 200 252341
+05-26 19:13 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233758801697000000-o.jpg
+05-26 19:13 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:13 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233758801697000000-o.jpg HTTP/1.1" 200 341584
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408233800419508000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408233800419508000000-o.jpg HTTP/1.1" 200 62270
+05-26 19:14 getmlsimages INFO     loadmlsimages()
+05-26 19:14 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210316150125180155000000
+05-26 19:14 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210316150125180155000000.html
+05-26 19:14 helpers      ERROR    File ./data/scrapedhtml/20210316150125180155000000.html not found.
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210316150125180155000000 HTTP/1.1" 200 6753
+05-26 19:14 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210316150125180155000000.html
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120823764793000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120823764793000000-o.jpg HTTP/1.1" 200 494744
+05-26 19:14 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120823764793000000-o.jpg
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120638705952000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120638705952000000-o.jpg HTTP/1.1" 200 161949
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120632117732000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120632117732000000-o.jpg HTTP/1.1" 200 164121
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120620010724000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120620010724000000-o.jpg HTTP/1.1" 200 141649
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120625999156000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120625999156000000-o.jpg HTTP/1.1" 200 135110
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120659223645000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120659223645000000-o.jpg HTTP/1.1" 200 361592
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120649331073000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120649331073000000-o.jpg HTTP/1.1" 200 338216
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120716434122000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120716434122000000-o.jpg HTTP/1.1" 200 137844
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120722408171000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120722408171000000-o.jpg HTTP/1.1" 200 189921
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120733977936000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120733977936000000-o.jpg HTTP/1.1" 200 88451
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120743502539000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120743502539000000-o.jpg HTTP/1.1" 200 184293
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120754855552000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120754855552000000-o.jpg HTTP/1.1" 200 200478
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120748975533000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120748975533000000-o.jpg HTTP/1.1" 200 154039
+05-26 19:14 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120808046792000000-o.jpg
+05-26 19:14 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:14 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120808046792000000-o.jpg HTTP/1.1" 200 230479
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120815829859000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120815829859000000-o.jpg HTTP/1.1" 200 407342
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210408120616179745000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210408120616179745000000-o.jpg HTTP/1.1" 200 60058
+05-26 19:15 getmlsimages INFO     loadmlsimages()
+05-26 19:15 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210323211414905377000000
+05-26 19:15 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210323211414905377000000.html
+05-26 19:15 helpers      ERROR    File ./data/scrapedhtml/20210323211414905377000000.html not found.
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210323211414905377000000 HTTP/1.1" 200 6817
+05-26 19:15 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210323211414905377000000.html
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210526161103303996000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210526161103303996000000-o.jpg HTTP/1.1" 200 278873
+05-26 19:15 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526161103303996000000-o.jpg
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324165917093538000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324165917093538000000-o.jpg HTTP/1.1" 200 103208
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210526162107648871000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210526162107648871000000-o.jpg HTTP/1.1" 200 116024
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324165954591397000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324165954591397000000-o.jpg HTTP/1.1" 200 82861
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324165958574821000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324165958574821000000-o.jpg HTTP/1.1" 200 66934
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170007577763000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170007577763000000-o.jpg HTTP/1.1" 200 78705
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170011678283000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170011678283000000-o.jpg HTTP/1.1" 200 65691
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324165944062661000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324165944062661000000-o.jpg HTTP/1.1" 200 72135
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170019016296000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170019016296000000-o.jpg HTTP/1.1" 200 79390
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170050950190000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170050950190000000-o.jpg HTTP/1.1" 200 69895
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170054517670000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170054517670000000-o.jpg HTTP/1.1" 200 63881
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170101769061000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170101769061000000-o.jpg HTTP/1.1" 200 43779
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170123472457000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170123472457000000-o.jpg HTTP/1.1" 200 61682
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170133495248000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170133495248000000-o.jpg HTTP/1.1" 200 86389
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170137220205000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170137220205000000-o.jpg HTTP/1.1" 200 79444
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170142620873000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170142620873000000-o.jpg HTTP/1.1" 200 46034
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170146203119000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170146203119000000-o.jpg HTTP/1.1" 200 62651
+05-26 19:15 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170149498180000000-o.jpg
+05-26 19:15 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:15 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170149498180000000-o.jpg HTTP/1.1" 200 69266
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170221767839000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170221767839000000-o.jpg HTTP/1.1" 200 66177
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170229183658000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170229183658000000-o.jpg HTTP/1.1" 200 76725
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324170233152847000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324170233152847000000-o.jpg HTTP/1.1" 200 111640
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210324165904620268000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210324165904620268000000-o.jpg HTTP/1.1" 200 129554
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210526161957904247000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210526161957904247000000-o.jpg HTTP/1.1" 200 527756
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210526162005179135000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210526162005179135000000-o.jpg HTTP/1.1" 200 489076
+05-26 19:16 getmlsimages INFO     loadmlsimages()
+05-26 19:16 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210306184429357605000000
+05-26 19:16 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210306184429357605000000.html
+05-26 19:16 helpers      ERROR    File ./data/scrapedhtml/20210306184429357605000000.html not found.
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210306184429357605000000 HTTP/1.1" 200 6612
+05-26 19:16 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210306184429357605000000.html
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005333927759000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005333927759000000-o.jpg HTTP/1.1" 200 115005
+05-26 19:16 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005333927759000000-o.jpg
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005217150236000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005217150236000000-o.jpg HTTP/1.1" 200 181905
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005218881477000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005218881477000000-o.jpg HTTP/1.1" 200 85339
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005220297667000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005220297667000000-o.jpg HTTP/1.1" 200 96513
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005221760371000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005221760371000000-o.jpg HTTP/1.1" 200 86817
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005225031731000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005225031731000000-o.jpg HTTP/1.1" 200 98421
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005256673296000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005256673296000000-o.jpg HTTP/1.1" 200 78556
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005258393782000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005258393782000000-o.jpg HTTP/1.1" 200 101239
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005259841675000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005259841675000000-o.jpg HTTP/1.1" 200 161597
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005301297831000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005301297831000000-o.jpg HTTP/1.1" 200 122688
+05-26 19:16 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005303126266000000-o.jpg
+05-26 19:16 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:16 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005303126266000000-o.jpg HTTP/1.1" 200 76258
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005329286611000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005329286611000000-o.jpg HTTP/1.1" 200 66630
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005330707958000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005330707958000000-o.jpg HTTP/1.1" 200 70081
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005332124335000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005332124335000000-o.jpg HTTP/1.1" 200 138520
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005335497639000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005335497639000000-o.jpg HTTP/1.1" 200 210771
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005357878962000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005357878962000000-o.jpg HTTP/1.1" 200 294169
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210312005359340521000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210312005359340521000000-o.jpg HTTP/1.1" 200 396751
+05-26 19:17 getmlsimages INFO     loadmlsimages()
+05-26 19:17 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20201031224044207196000000
+05-26 19:17 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20201031224044207196000000.html
+05-26 19:17 helpers      ERROR    File ./data/scrapedhtml/20201031224044207196000000.html not found.
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20201031224044207196000000 HTTP/1.1" 200 7010
+05-26 19:17 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20201031224044207196000000.html
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201111143105944382000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201111143105944382000000-o.jpg HTTP/1.1" 200 197243
+05-26 19:17 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201111143105944382000000-o.jpg
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234644146290000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234644146290000000-o.jpg HTTP/1.1" 200 185525
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234650509347000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234650509347000000-o.jpg HTTP/1.1" 200 72204
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234709947467000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234709947467000000-o.jpg HTTP/1.1" 200 62038
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234651794288000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234651794288000000-o.jpg HTTP/1.1" 200 87497
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234653020006000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234653020006000000-o.jpg HTTP/1.1" 200 60479
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234654335679000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234654335679000000-o.jpg HTTP/1.1" 200 66342
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234655642403000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234655642403000000-o.jpg HTTP/1.1" 200 68971
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234711155641000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234711155641000000-o.jpg HTTP/1.1" 200 53649
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234712478749000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234712478749000000-o.jpg HTTP/1.1" 200 72608
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110235646006195000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:17 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110235646006195000000-o.jpg HTTP/1.1" 200 94569
+05-26 19:17 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234715437957000000-o.jpg
+05-26 19:17 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234715437957000000-o.jpg HTTP/1.1" 200 57608
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234717122918000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234717122918000000-o.jpg HTTP/1.1" 200 49290
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234718381873000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234718381873000000-o.jpg HTTP/1.1" 200 63153
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234719741362000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234719741362000000-o.jpg HTTP/1.1" 200 65267
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234721535536000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234721535536000000-o.jpg HTTP/1.1" 200 76964
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234722978342000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234722978342000000-o.jpg HTTP/1.1" 200 81960
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234724378940000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234724378940000000-o.jpg HTTP/1.1" 200 60877
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234725755685000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234725755685000000-o.jpg HTTP/1.1" 200 50893
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234726930304000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234726930304000000-o.jpg HTTP/1.1" 200 32799
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234728129282000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234728129282000000-o.jpg HTTP/1.1" 200 64821
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234730562727000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234730562727000000-o.jpg HTTP/1.1" 200 74323
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234731775479000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234731775479000000-o.jpg HTTP/1.1" 200 71545
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234733523701000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234733523701000000-o.jpg HTTP/1.1" 200 70726
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234646036750000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234646036750000000-o.jpg HTTP/1.1" 200 72284
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234647282806000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:18 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234647282806000000-o.jpg HTTP/1.1" 200 41753
+05-26 19:18 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234648757531000000-o.jpg
+05-26 19:18 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234648757531000000-o.jpg HTTP/1.1" 200 54871
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234639901918000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234639901918000000-o.jpg HTTP/1.1" 200 64530
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234641353163000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234641353163000000-o.jpg HTTP/1.1" 200 73502
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234642701148000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234642701148000000-o.jpg HTTP/1.1" 200 75723
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201111143104151135000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201111143104151135000000-o.jpg HTTP/1.1" 200 258866
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20201110234735412698000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20201110234735412698000000-o.jpg HTTP/1.1" 200 115275
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210406200707377060000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210406200707377060000000.html
+05-26 19:19 helpers      ERROR    File ./data/scrapedhtml/20210406200707377060000000.html not found.
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): my.flexmls.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://my.flexmls.com:443 "GET /douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210406200707377060000000 HTTP/1.1" 200 7323
+05-26 19:19 helpers      INFO     Saving HTML data to file ./data/scrapedhtml/20210406200707377060000000.html
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200930366487000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200930366487000000-o.jpg HTTP/1.1" 200 531889
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200930366487000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200930366487000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200931592552000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200931592552000000-o.jpg HTTP/1.1" 200 531127
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200932965883000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200932965883000000-o.jpg HTTP/1.1" 200 451846
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200934180702000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200934180702000000-o.jpg HTTP/1.1" 200 313613
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200935780370000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200935780370000000-o.jpg HTTP/1.1" 200 154078
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200937284535000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200937284535000000-o.jpg HTTP/1.1" 200 150668
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200938279339000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200938279339000000-o.jpg HTTP/1.1" 200 144463
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200939161677000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200939161677000000-o.jpg HTTP/1.1" 200 153758
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200944130364000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200944130364000000-o.jpg HTTP/1.1" 200 133139
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200945003419000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200945003419000000-o.jpg HTTP/1.1" 200 129991
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200946155126000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200946155126000000-o.jpg HTTP/1.1" 200 161230
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210405215243457062000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210405215243457062000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905519086000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905519086000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905626564000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905883503000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215905972922000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210405215906084655000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210326193445009158000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210326193445009158000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202329660401000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202329660401000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202333569376000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202337051713000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202340339401000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210326202344442710000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210408221109237841000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210408221109237841000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233736533033000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233736533033000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233736533033000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233737910576000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233739204484000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233740463933000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233741865228000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233743257585000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233744717093000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233747518834000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233750020878000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233751336151000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233754154282000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233755604720000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233757104800000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233758801697000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408233800419508000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210316150125180155000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210316150125180155000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120823764793000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120823764793000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120638705952000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120632117732000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120620010724000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120625999156000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120659223645000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120649331073000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120716434122000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120722408171000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120733977936000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120743502539000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120754855552000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120748975533000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120808046792000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120815829859000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210408120616179745000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210323211414905377000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210323211414905377000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526161103303996000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526161103303996000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324165917093538000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526162107648871000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324165954591397000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324165958574821000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170007577763000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170011678283000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324165944062661000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170019016296000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170050950190000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170054517670000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170101769061000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170123472457000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170133495248000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170137220205000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170142620873000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170146203119000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170149498180000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170221767839000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170229183658000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324170233152847000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210324165904620268000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526161957904247000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210526162005179135000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210306184429357605000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210306184429357605000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005333927759000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005333927759000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005217150236000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005218881477000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005220297667000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005221760371000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005225031731000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005256673296000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005258393782000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005259841675000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005301297831000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005303126266000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005329286611000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005330707958000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005332124335000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005335497639000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005357878962000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210312005359340521000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20201031224044207196000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20201031224044207196000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201111143105944382000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201111143105944382000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234644146290000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234650509347000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234709947467000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234651794288000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234653020006000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234654335679000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234655642403000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234711155641000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234712478749000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110235646006195000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234715437957000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234717122918000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234718381873000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234719741362000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234721535536000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234722978342000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234724378940000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234725755685000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234726930304000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234728129282000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234730562727000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234731775479000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234733523701000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234646036750000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234647282806000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234648757531000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234639901918000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234641353163000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234642701148000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201111143104151135000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20201110234735412698000000-o.jpg
+05-26 19:19 getmlsimages INFO     loadmlsimages()
+05-26 19:19 getmlsimages INFO     Getting images for MLS URL https://my.flexmls.com/douglas_fuller/search/contacts/20200131203056519997000000/newsfeeds/listings/20210406200707377060000000
+05-26 19:19 helpers      INFO     Getting HTML data from file ./data/scrapedhtml/20210406200707377060000000.html
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200930366487000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200930366487000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200930366487000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200931592552000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200932965883000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200934180702000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200935780370000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200937284535000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200938279339000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200939161677000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200944130364000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200945003419000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from file: ./data/scrapedhtml/20210406200946155126000000-o.jpg
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200947086078000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200947086078000000-o.jpg HTTP/1.1" 200 111122
+05-26 19:19 getmlsimages INFO     Getting from URL: https://cdn.resize.sparkplatform.com/az/1280x1024/true/20210406200947940178000000-o.jpg
+05-26 19:19 urllib3.connectionpool DEBUG    Starting new HTTPS connection (1): cdn.resize.sparkplatform.com:443
+05-26 19:19 urllib3.connectionpool DEBUG    https://cdn.resize.sparkplatform.com:443 "GET /az/1280x1024/true/20210406200947940178000000-o.jpg HTTP/1.1" 200 143106
