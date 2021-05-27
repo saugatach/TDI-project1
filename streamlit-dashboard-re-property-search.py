@@ -238,21 +238,8 @@ def dashboard(datafile, data_housing):
         dfhousedata['rent'] = rent
         # allow user to select price
         price = st.slider("Price:", 120000, 300000, int(housedata['price']))
-        # save price info
         dfhousedata['price'] = price
-
-        # operating_data = propertyanalysis.net_operating(price=price, hoa=housedata['hoa'], rent=rent)
-        # housedata.update(operating_data)
-        # housedata['gestimatecaprate'] = \
-        #     propertyanalysis.gestimatecaprate(price=housedata['price'], hoa=housedata['hoa'], rent=1295)
-        #
-        # st.info("NOI monthly: " + str(housedata['noi_monthly']))
-        # st.info("ROI : " + str(housedata['ROI']))
-        # st.success(housedata['url_mls'])
-        # if housedata['url_zillow'] is np.nan:
-
         st.success(housedata['url_zillow'])
-        # st.success('Hi I am looking at the property at {0}. Is it still available?'.format(housedata['address']))
 
     with col2:
         st.title('RE property analysis dashboard')
@@ -268,11 +255,6 @@ def dashboard(datafile, data_housing):
             dfhousedata['condition'] = 'Ugly'
 
     with col3:
-
-        # st.info('Displaying {0} of {1}'.format(str(index), str(len(dfactive))))
-        # # st.warning(housedata['address'])
-        # st.dataframe(housedata_display.T, height=500)
-        # print(housedata)
 
         decision = getdecision(analyzedfile, dfhousedata)
 
